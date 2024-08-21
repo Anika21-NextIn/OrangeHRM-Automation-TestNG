@@ -1,0 +1,1 @@
+{"uuid":"b65d44fc-3025-44ec-8ffc-b4b4a6d0e7d7","name":"setup.Setup.screenShot","children":["9f4e6e3b-7dbc-4e77-8f90-a27cd1749a4b"],"description":"","befores":[],"afters":[{"name":"screenShot","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724243426843,"stop":1724243426844}],"start":1724243426843,"stop":1724243426844}
