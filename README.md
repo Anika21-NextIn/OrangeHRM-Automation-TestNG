@@ -1,6 +1,6 @@
-OrangeHRM_Automation_TestNG_Selenium
-A TestNG automation project for the HR management system - https://opensource-demo.orangehrmlive.com/
-Project Summery
+###OrangeHRM_Automation_TestNG_Selenium
+#A TestNG automation project for the HR management system - https://opensource-demo.orangehrmlive.com/
+##Project Summery
 This project aims to automate the testing of the HR management system using TestNG framework. It performs various actions such as creating employees, searching for employees, updating employee information, and more.
 
 Technology Used
