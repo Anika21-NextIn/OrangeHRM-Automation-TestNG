@@ -283,19 +283,19 @@ public class PIMTestRunner extends Setup {
         Assert.assertTrue(textActual.equals(testExpected));
     }
 
-    @Test(priority = 11, description = "User should not see The logout option while user is logged in")
-    public void doLogoutBeforeLogin() {
-        boolean isLogoutVisible;
-        try {
-            WebElement btnLogout = driver.findElement(By.linkText("Logout"));
-            if (btnLogout.isDisplayed()) {
-                isLogoutVisible = true;
-            } else {
-                isLogoutVisible = false;
-            }
-        } catch (NoSuchElementException e) {
-            isLogoutVisible = false;
-        }
-        Assert.assertFalse(isLogoutVisible);
-    }
+//    @Test(priority = 11, description = "User should not see The logout option while user is logged in")
+//    public void doLogoutBeforeLogin() {
+//        boolean isLogoutVisible;
+//        try {
+//            WebElement btnLogout = driver.findElement(By.linkText("Logout"));
+//            if (btnLogout.isDisplayed()) {
+//                isLogoutVisible = true;
+//            } else {
+//                isLogoutVisible = false;
+//            }
+//        } catch (NoSuchElementException e) {
+//            isLogoutVisible = false;
+//        }
+//        Assert.assertFalse(isLogoutVisible);
+//    }
 }

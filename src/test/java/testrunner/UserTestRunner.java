@@ -171,6 +171,8 @@ public class UserTestRunner extends Setup {
 
     @AfterTest(groups = "smoke")
     public void doLogout() {
+//        LoginPage loginPage = new LoginPage(driver);
+//        loginPage.doLogout();
         DashboardPage dashboardPage = new DashboardPage(driver);
         dashboardPage.doLogout();
     }

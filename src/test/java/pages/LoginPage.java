@@ -16,10 +16,10 @@ public class LoginPage {
     WebElement btnLogin;
     @FindBy(className = "oxd-text")
     List<WebElement> lblErrorMessage;
-    @FindBy(className="oxd-userdropdown-name")
-    WebElement lblUsername;
-    @FindBy(css = "[role=\"menuitem\"]")
-    List<WebElement> cbUserMenu;
+//    @FindBy(className="oxd-userdropdown-name")
+//    WebElement lblUsername;
+//    @FindBy(css = "[role=\"menuitem\"]")
+//    List<WebElement> cbUserMenu;
 
     public LoginPage(WebDriver driver) {
 
@@ -37,9 +37,9 @@ public class LoginPage {
         btnLogin.click();
     }
 
-    public void doLogout(){
-        lblUsername.click();
-        cbUserMenu.get(3).click();
-
-    }
+//    public void doLogout(){
+//        lblUsername.click();
+//        cbUserMenu.get(3).click();
+//
+//    }
 }
