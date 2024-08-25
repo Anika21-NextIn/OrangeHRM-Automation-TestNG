@@ -40,10 +40,8 @@ https://docs.google.com/spreadsheets/d/1PerVcIdQjeocqQQaDA4h0bQ_6rrWwhOY/edit?us
 ![2 Image 2024-08-24 at 23 46 37_611dfa61](https://github.com/user-attachments/assets/0aa62a5f-200d-43d6-baa2-06fd68dc2de4)
 ![3 Image 2024-08-24 at 23 46 36_55f6d654](https://github.com/user-attachments/assets/eea66a32-fd25-442c-8eac-48ee7a343f83)
 
-
-
-
-
+## Video Output
+[OrangeHRM_Automation.webm](https://github.com/user-attachments/assets/9727e157-9d74-4b68-8530-d746e3808bb3)
 
 
 
