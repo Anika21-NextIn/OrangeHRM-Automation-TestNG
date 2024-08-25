@@ -36,7 +36,11 @@ This project aims to automate the testing of the HR management system using Test
 https://docs.google.com/spreadsheets/d/1PerVcIdQjeocqQQaDA4h0bQ_6rrWwhOY/edit?usp=sharing&ouid=110318663577610864826&rtpof=true&sd=true
 
 ## Allure Report
-![Screenshot_2](https://github.com/user-attachments/assets/372c19ec-e5f1-473a-b70a-c48302763a81)
+![1 Image 2024-08-24 at 23 46 37_a7d11236](https://github.com/user-attachments/assets/f769d148-055b-494c-be43-c4591381ec13)
+![2 Image 2024-08-24 at 23 46 37_611dfa61](https://github.com/user-attachments/assets/0aa62a5f-200d-43d6-baa2-06fd68dc2de4)
+![3 Image 2024-08-24 at 23 46 36_55f6d654](https://github.com/user-attachments/assets/eea66a32-fd25-442c-8eac-48ee7a343f83)
+
+
 
 
 
